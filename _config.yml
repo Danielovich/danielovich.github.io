@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Your awesome title
 author:
   name: GitHub User
@@ -58,3 +59,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+=======
+theme: jekyll-theme-minimal
+>>>>>>> e1f3a80ef2f036aa195ad516586768716eed0d19
