@@ -58,3 +58,4 @@ Hvis man ikke engang formår, at beskrive idéen omkring hvor man vil hen, så k
 - User-stories skal dokumenteres før de kan indgå I et sprint.
 
 
+*Løbende opdateringer forekommer.*
