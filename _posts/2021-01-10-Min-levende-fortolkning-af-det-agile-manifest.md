@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Min agile manifest fortolkning"
+title: "Min levende fortolkning af det agile manifest"
 date: 2021-01-10
 ---
 
