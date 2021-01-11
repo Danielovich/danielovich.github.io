@@ -2,6 +2,7 @@
 layout: post
 title: "Min levende fortolkning af det agile manifest"
 date: 2021-01-10
+categories: agile
 ---
 
 For nogle årtier siden gjorde en stor håndfuld respekterede og velmente individer sig bemærkede ved, at
