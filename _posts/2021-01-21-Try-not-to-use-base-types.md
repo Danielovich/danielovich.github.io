@@ -31,7 +31,7 @@ Consider these two different implementations. I have only made a custom type of 
 
 Sure, we can agree that a CVR can be an int. But I feel robbed from a few things really, which I get when using a custom type instead.
 
-- Validity of a custom type can and should built in
+- Validity of a custom type can and should be built in
 - No guessing of what I am working with
 - Enriches your code due to clearer types
 
