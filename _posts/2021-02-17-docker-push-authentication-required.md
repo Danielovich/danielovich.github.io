@@ -17,7 +17,7 @@ some layers were being pushed, but suddenly the command would crash into a state
 16-Feb-2021 01:35:17 | 9f8ebdc8fafb: Pushing [===================================> ] 128.8 MB/179.1 MB
 16-Feb-2021 01:35:17 | b92dd801d461: Waiting
 16-Feb-2021 01:35:17 | 18f9b4e2e1bc: Waiting
-16-Feb-2021 01:35:19 | denied: requested access to the resource is denied
+16-Feb-2021 01:35:19 | unauthorized: authentication required
 ```
 
 Okay I thought. What's up docker, wanna play hard ?
