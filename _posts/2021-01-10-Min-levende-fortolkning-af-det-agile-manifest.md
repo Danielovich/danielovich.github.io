@@ -25,21 +25,25 @@ Derfor er manifestet på mange måder fuldstændig latterligt fordi det I den gr
 
 > That is, while there is value in the items on the right, we value the items on the left more.
 
-Der er kogt meget suppe på det her manifest. Agile purister er vilde med, at lytte til deres egen fortolkning af manifester og glemmer ofte, at det ikke er dem eller manifestet det I virkeligheden drejer sig om.
+Der er kogt meget suppe på det her manifest. Agile purister har det jo med, at lytte til deres egen fortolkning af manifestet og glemmer ofte, at det hverken er dem eller manifestet det I virkeligheden drejer sig om.
 
-Det er min erfaring, at den enkelte og personlige fortolkning aldrig munder ud I særlig god software. Det at udvikle software er I stor grad en team-øvelse og der er faktisk meget lidt plads til individualisme. Og for at et team kan bidrge positivt skal medlemmerne være på linje med hinanden.
+Det er min erfaring, at den enkelte og personlige fortolkning af manifestet aldrig munder ud I særlig god software. Det at udvikle software er I stor grad en team-øvelse og der er faktisk meget lidt plads til individualisme. Og for at et team kan bidrge positivt skal medlemmerne være på linje med hinanden.
 
-Du bliver aldrig ansat I en virksomhed for skrive kode. Du bliver ansat for at dække nogle behov. De behov er ikke kode. De behov skal naturligvis kunne beskrives før, at man kan være en success.  
+Helt grundliggende mener jeg der er et behov for, at ting skal beskrives før, at man kan være en success. De fleste mennesker har det klart bedst med, at vide hvilke rammer de kan spille ind I. Det er ikke det samme som at sige, at man ikke skal interagere med hinanden og, at der også skal tages højde for individet - men helt ærligt - vi skal også kunne levere på et grundlag der ikke er baseret på individuelle egenskaber.
 
-Så der skal være en samlet forståelse af hvordan et team forholder sig til manifestet. Men alene det er heller ikke nok. Fordi selvom manifestet hælder mere til individet og interaktion over, at bruge processer og værktøjer, så er man nødt til at etablere en arbejdsgang hvor alle kan spille med.
+Der skal altså være en rimelig samlet forståelse af hvordan et team forholder sig til manifestet. Men alene det er heller ikke nok. Fordi selvom manifestet hælder mere til individet og interaktion over, at bruge processer og værktøjer - så er man nødt til at etablere en arbejdsgang hvor alle kan spille med. 
 
-Derfor kan det virke paradoksalt, at processen Scrum er så vigtigt I en software-organisation.
+Derfor kan det også virke paradoksalt, at processen Scrum er så vigtigt I en software-organisation. Fordi Scrum er ikke manifestet. Scrum er en fuldstændig klokkeklar proces. Og I den proces gør man brug af nogle værktøjer.
 
-Jeg finder personligt er en smule paradoksalt, at man I agile teams bruger scrum, men samtidig læner sig op ad det agile manifest som fuldstændigt tydeligt siger "Individuals and interactions over processes and tools" og "Working software over comprehensive documentation".
+Der finder jeg det også en smule finutligt, at man I softwareudviklings-teams bruger scrum, men samtidig læner sig op ad det agile manifest. Netop fordi manifestet helt tydeligt siger "Individuals and interactions over processes and tools" og "Working software over comprehensive documentation". Men samtidig diktere scrum processen, at man skriver user-stories og bruger daily som et værktøj til at kommunikere.
 
-Du kan tolke det her ligeså tosset du vil. Jeg tolker det sådan her.
+Scrum er I mine øjne total overlegent ift. det agile manifest, som jeg omvendt synes er tyndt og utydeligt. Det overrasker mig dog ikke, at agile purister tolker så meget på det manifest - fordi man kan intet andet end det - tolke det til døde.
 
-Scrum er en proces som gør det muligt at planlægge, monitorere throughput samt løfte som et team. Men vigtigst af alt, gør scrum det muligt, at give teamet ro til at arbejde på hvad der er priorteret af forretningen.
+Scrum er derimod en proces og samtidig et værktøj som gør det muligt at planlægge og kommunikere ud fra. Samt løfte som et team. Scrum gør det muligt, at give teamet ro til at arbejde ud fra en priorteret liste som kommer direkte fra forretningen.
+
+Men scrum er ikke nemt, at implementere. Fordi det skal forankres fra toppen og der skal som jeg skrev tidligere, være en samlet forståelse af hvordan man levere. Også er der der jo naturligvis det helt klare faktum, at man er nødt til at kunne beskrive hvad man ønsker sig. 
+
+Det foregår nogenlunde sådan her:
 
 - Før at teamet kan planlægge skal forretningen vide hvad de vil.
 - Når forretningen ved hvad de vil skal forretningen og teamet sammen beskrive det I tekst.
