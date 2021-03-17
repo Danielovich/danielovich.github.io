@@ -16,7 +16,7 @@ In PowerShell
 ```powershell
 mkdir simpletaskdotnet
 
-cd simpletasksimpletaskdotnet
+cd simpletaskdotnet
 ```
 
 And then we want to consume the SDK and change the structure of the task folders.
