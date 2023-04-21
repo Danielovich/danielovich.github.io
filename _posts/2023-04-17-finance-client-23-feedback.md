@@ -5,33 +5,53 @@ categories: misc
 published: false
 ---
 
-Key take away drejer sig om en grundlæggende udfordring i ledelsen ift. hvordan man de sidste mange år IKKE har bygget software produkter.
+Key take aways drejer sig grundlæggende om udfordringer i ledelsen og hvordan ens idé til en software løsning er baseret på ikke-validerede
+hypoteser og mangel på evidens fra potentielle kunder og aftagere.
 
-Teamet har været forankret på baggrund af en traditionel beureaukratisk opstilling. Organisatorisk har det set således ud;
+- Idéen er ikke blevet valideret.
+- Idéen er ikke brudt ned i iterationer.
+- Idéen har ikke været igennem indledende øvleser som f.eks. user-journey mapping.
+- Idéen forsøges implementeret med Big Design Up Front (BDUF).
+- Ledelsen anses for at være dem der ved bedst.
+- Passiv aggresivitet når der udfordres fra teamets medlemmer imod ledelsen.
+- Silo kommunikation uden transparens.
+- Process er stort set ikke eksisterende.
+- Ledelsen dikterere fra hånd-til-mund. Intet er beskrevet i tekst.
+- Glimrende eksempel af Planning fallacy.
+- Glimrende eksempel på Conways lov.
+- Teknik over værdiskabelse.
 
-Manager og kravstiler (samme person)
-    -> Arkitekt og people manager (samme person).
-        -> Domæne eksperter
-        -> Udviklere
+Teamet har været forankret på baggrund af en traditionel beureaukratisk organisering. Organisatorisk har det set således ud;
 
-I begyndelsen er holdet 4 mand med 3 på siden.
+Team-manager og kravstiler (samme person)
+    -> Arkitekt og people/first-line manager (samme person).
+        -> Domæne eksperter.
+        -> Udviklere.
 
-Over tid bliver dette til 7 mand og 2 på siden (pseudo scrum master kommer til efter 5 måneder samt en forretnings-udvikler efter ca. 6).
+I begyndelsen er holdet 4 mand med 3 andre på på siden.
 
-Det er værd at tage notits af at fra begyndelsen og til slutningen af min oplevelse bliver denne konstellation langsomt udfordret, så den vokser og "bobler" i størrelse. 
-Vi går ikke "hårdt" fra at være 4 til 7 men det sniger sig langsomt ind, hvor interaktionen imellem kravstiller og dele af holdet vokser.
+Over tid bliver dette til 7 mand og 2 andre på siden (pseudo scrum master kommer til efter 5 måneder samt en forretnings-udvikler efter ca. 6).
 
-Det har den gjort umiddelbart efter managers behov er min antagelse, og dette er sket er min antagelse, grundet pres.
+Det er værd at tage notits af, at fra begyndelsen og til slutningen af min oplevelse, bliver denne konstellation langsomt udfordret. Den vokser og "bobler" i størrelse. 
+Vi går dog ikke "hårdt" fra at være 4 til 7 men det sniger sig langsomt ind, hvor interaktionen imellem kravstiller og dele af holdet vokser i personer.
 
-Manager agerer også kunde og kravstiller i dette tilfælde. Det har vedkommende naturligvis gjort på baggrund af noget viden fra andre steder i organisationen. Viden er tilmed ikke valideret med andre interne organisationer og de andre interne organisationer er blot anset som eksertne aftagere men uden at bringe dem særlig tæt ind. Manager er altså ydre kravstiller. Sat på spidsen; manager har fået en idé omkring et produkt, "gjort det færdigt på papiret" og "oppe i hovedet". Så har arkitekt tegnet diagrammer og flows. Og derfra har udviklingsholdet skulle arbejde. Ret klassisk og tradiotionelt setup.
+Det gør den, er min antagelse, umiddelbart efter managers behov, og højst sandsyndlig grundet pres og sin fiksering på kunstige deadlines.
 
-Det er værd at bide mærke i kompleksiteten af de på papiret ønskede løsning. Der er slet ingen tvivl om, at den på papiret er over-engineered.
+Manager agerer også kunde og kravstiller i dette tilfælde. Det har vedkommende givet gjort på baggrund af optaget viden fra andre steder i organisationen samt et muligt ønske fra vedkommendes ledelse omkring et tiltag som f.eks. digital transformation og/eller effektivitet etc. 
 
-Der er samtidig ikke præsenteret, en eneste gang, vision eller mission omkring det ønskede produkt.
+Fra den viden er der kommet en idé til et internt produkt. Fra denne idé er der kommet et løsningsforslag. Dette løsningsforslag er blevet implementeret ud fra BDUF.
 
-Der er samtidig ikke præsenteret, en eneste gang, nedfælede krav fra manager udover abstraktioner og til tider meget detaljeret ønsker til endelige mål. Men alt sammen mundligt.
+Langt størstedelen (90%) af løsningenens krav har været baseret på tekniske ønsker og ikke brugerens/forretningens værdiskabelse. Teknikken har været målet, langt mere end
+at forretningen fik hvad de potentielt så som værdiskabende. Arkitekten har haft for vane, at bede om løsninger fra enkeltpersoner som det lige passede ind i vedkommendes
+egen verden. Forventninger er afstemt mundligt. Tilbageløb.
 
-Der er som der er i disse organiationer samtidig en manglende udfordring til kravstiller, altså kunden, altså manageren. Der skrives ikke intet op på en opgaveliste når manager præsenterer ønsker. Ønsker kan være af enhver arbitræt størrelse uden umiddelbar drøftelse af afhængigheder og prioriteringer. Et ønske bliver derfor ikke konkret fordi der ikke stilles indgående spørgsmål og kravstiller involverer sig ikke i det praktiske ift. eksekvering. Vedkommende forsøger at sætte en retning og derfra forsvinder vedkommende fra den daglige ekskvering.
+Denne viden syntes heller ikke valideret med andre interne organisationer eller forretningen. Andre interne organisationer er blot anset som eksertne aftagere men uden at bringe dem særlig tæt ind i implementeringen og meget få udfrakommende ønsker har fundet vej ind i implementeringen. Med den store undtagelse af, at når kravstiller, arkitket og domæne-eksperter er blevet klogere. Men det er sket efter man har implementeret en løsning omkring BDUF.
+
+Når kravene har ændret sig fordi man er blevet klogere undervejs, og der allerede har forelagt diagrammer og tekniske implementationer for sit tidligere BDUF løsning så har det over tid taget moralen fra hele teamet. 
+
+Man har følt sig i konstant forandring uden at vide hvad der egentlig kan lade sig gøre, hvad en success er, hvad der skal laves om, laves til, og hvad de nye deadlines er for en løsning som ingen ved bliver forandret igen lige om lidt. 
+
+Der er som der i disse organiationer samtidig er en manglende udfordring til kravstiller, altså kunden, altså manageren. Der skrives intet op på en opgaveliste når manager præsenterer ønsker. Ønsker kan være af enhver arbitræt størrelse uden umiddelbar drøftelse af afhængigheder og prioriteringer. Et ønske bliver derfor ikke konkret fordi der ikke stilles indgående spørgsmål og kravstiller involverer sig ikke i det praktiske ift. eksekvering. Vedkommende forsøger at sætte en retning og derfra forsvinder vedkommende fra den daglige ekskvering.
 
 Kravstiller har en godhjertet forventning om, at mundtlige krav kan omdannes til forretningens behov. Disse bliver på ad-hoc vis valideret med én eller to potentielle aftagere af produktet. Men forretningen er ikke til stede i eksekveringen og har på intet tidspunkt deltaget i omdannelsen af krav til reele behov hos forretningen. 
 
@@ -42,28 +62,35 @@ En anekdote;
 
 Over et par måneder designes og implementeres der en teknisk kontrakt (kontrakten er en stor del af produktet) som skal holde på informationer som evt. aftager af kontrakten kan benytte.
 
-Denne kontrakt er stor og kan holde på mange informationer. Disse informationer skal over tid hentes fra mange forskellige systemer.
+Denne kontrakt er stor og kan holde på mange informationer. Disse informationer skal over tid hentes fra potentielt mange forskellige systemer og kilder.
 
-Der bliver implementeret delvise informationer i kontrakten men udviklingsholder bliver naturligvis klogere undervejs og når data fra eksterne kilder enten 
+Der bliver implementeret delvise informationer i kontrakten men udviklingsholdet bliver naturligvis klogere undervejs og når data fra eksterne kilder enten 
 ikke eksisterer eller passer i kontrakten, bremses de.
 
 Kravstiller får indsigt i det arbejde som er forestået og udført. Vedkommende vælger at skærer kontrakten til og lave den om.
 
 Det tager mange møder af få "kontrakten på plads", alt imens udviklingsholdet er sat mere eller mindre på standby.
 
-Nu er der gået flere måneder med arbejde som kravstiller mener er delvist irrelevant.
+Nu er der altså gået flere måneder med arbejde som kravstiller mener er delvist irrelevant eller unødvendigt.
 
 Samtidig deles organisationen op i to:
 
 - En del skal tage sig af kontraktens udformning; domæne-ejeren i spidsen samt en udvikler som implementere kontraktens design up-front.
 - Anden del skal implementere det bagvedliggende af kontrakt som består sig i, at finde data og udstille disse igennem kontrakten.
 
-Der er mange møder om den kontrakt. Fordi ønsket er "at den skal være færdig".
+Der er mange møder om den kontrakt. Fordi ønsket er "at den skal være færdig". Også selvom der syntes, at komme nye tiltag til den ugentligt.
 
-Flere gange i forløbet 
+En anden anekdote;
 
-Der forhandles muligvis mundtligt.
+Kommunikationen er helt tydeligt forankret omkring topstyring. Kravstilleren kommunikerer internt til arkitekt men samtidigt også til domæne-eksperter. Udviklerne
+bliver klædt på af arkitekt. 
 
-Den generelle "notion" i forløbet har været:
+Det medfører initielt at der er rimelig ro omkring udviklingsforløbet men husk, at kravstiller er idémand og har hverken valideret eller trygprøvet sine idé-hypoteser 
+uden for organisationen. Der er ganske enkelt ikke fra starten af forløbet blevet spurgt eller på nogen måde delagtiggjort til mulige anvendere eller interne kunder.
 
-Vi har travlt (- men vi ved ikke hvordan vi kravstiller).
+Fra det øjeblik, at kravstiller siger sig imod det arbejde som initielt allerede er lavet, skrider resten af organisationen under vedkommende.
+
+Kravstiller kommunikerer sine nye ønsker, som stadig ikke er nedfældet men kun eksisterer ud fra vedkommendes egen viden og bedst mulige ønsker. Vedkommende må det derfor 
+antages mener, at vide bedre end samtlige potentielle kunder og aftagere. 
+
+Arkitekten er underlagt kravstiller, både 
