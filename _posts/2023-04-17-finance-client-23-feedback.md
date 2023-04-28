@@ -19,7 +19,7 @@ hypoteser og mangel på evidens fra potentielle kunder og aftagere.
 - Ledelsen dikterere fra hånd-til-mund. Intet er beskrevet i tekst.
 - Glimrende eksempel af Planning fallacy.
 - Glimrende eksempel på Conways lov.
-- Teknik over værdiskabelse.
+- Teknik over forretningsmæssig værdiskabelse.
 
 Teamet har været forankret på baggrund af en traditionel beureaukratisk organisering. Organisatorisk har det set således ud;
 
